@@ -17,7 +17,7 @@ function mincost(arr)
 	 
   
 }
-let input=prompt ("Enter the number of element")
+let input=prompt("Enter the number of element")
 let arr=[]
 for(let i=0;i<input;i++){
 	arr=arr.push(prompt(`Enter the ${i+1} element`))
